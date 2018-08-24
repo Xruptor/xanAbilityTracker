@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: xanAbilityTracker
+## Author: Xruptor
+## Version:  1.0
+## Notes: Lets you track when abilities are ready or off cooldown.
+## OptionalDeps: tekDebug
+## SavedVariables: XAT_DB
+xanAbilityTracker.lua
